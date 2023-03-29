@@ -1,7 +1,10 @@
 <h1 style="text-align: center;">Hello World 🌎👋</h1>
+
+![me](https://github.com/lDavidSantiago/lDavidSantiago/blob/main/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <h3 style="text-align:right">
 
   Hi im a software engineer in process open to learn new things every day and share knowledge ☺ </h3>
+
 ![me](https://github.com/lDavidSantiago/lDavidSantiago/blob/main/dino.gif)
 <!--
 **lDavidSantiago/lDavidSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
