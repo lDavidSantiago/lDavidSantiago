@@ -5,7 +5,7 @@
 
   Hi im a Junior software ingenieer in process open to learn new things every day and share knowledge ☺ </h3>
 
-![me](https://github.com/lDavidSantiago/lDavidSantiago/blob/main/dino.gif)
+![me](https://github.com/lDavidSantiago/lDavidSantiago/blob/main/mqdefault.jpg)
 <!--
 **lDavidSantiago/lDavidSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
