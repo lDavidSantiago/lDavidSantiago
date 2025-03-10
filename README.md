@@ -16,8 +16,6 @@
 
 - Currently Studing 7th Semester of Software Ingineer at Univalle
 - Currently learning Development by Self
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
