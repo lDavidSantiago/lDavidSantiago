@@ -14,7 +14,7 @@
 
 <br>
 
-- Currently Studing 7th Semester of Software Ingineer at Univalle
+- Currently Studing 8th Semester of Software Ingineer at Univalle
 - Currently learning Development by Self
 
 <br><br>
