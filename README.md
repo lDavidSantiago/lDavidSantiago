@@ -1,7 +1,7 @@
 <h1 align="center">⛧ ldavidsantiago ⛧</h1>
 
 <p align="center">
-  <i>frontend engineer // arch + hyprland</i>  
+  <i>full stack engineer // arch + hyprland</i>  
 </p>
 
 
