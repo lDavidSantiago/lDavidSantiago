@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://www.ldavidsantiago.dev/" >
-    <i>“ldavidsantiago.dev”</i>
+    <i>ldavidsantiago.dev</i>
   </a>
 </p>
 
