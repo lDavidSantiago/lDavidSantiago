@@ -1,7 +1,7 @@
 <h1 align="center">⛧ ldavidsantiago ⛧</h1>
 
 <p align="center">
-  <i>full stack engineer // arch + hyprland</i>  
+  <i>full stack engineer </i>  
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ### ✦ about
 - building **fast, raw, high-quality** interfaces  
-- living on **arch + hyprland**, keeping it minimal  
+- keeping it minimal  
 
 </td>
     <td align="right">
