@@ -12,7 +12,7 @@
     <td align="left">
 
 ### ✦ about
-- building **fast, raw, high-quality** interfaces  
+- building **AI Agents, Scalable Architectures, high-quality** software  
 - keeping it minimal  
 
 </td>
