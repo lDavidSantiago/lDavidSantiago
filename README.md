@@ -1,7 +1,7 @@
 <h1 align="center">⛧ ldavidsantiago ⛧</h1>
 
 <p align="center">
-  <i>full stack engineer </i>  
+  <i>full stack | AI engineer </i>  
 </p>
 
 
