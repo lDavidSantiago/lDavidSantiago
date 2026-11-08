@@ -48,8 +48,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.ldavidsantiago.dev/" >
-    <i>ldavidsantiago.dev</i>
+  <a href="https:/ldavidsantiago.me/" >
+    <i>ldavidsantiago.me</i>
   </a>
 </p>
 
